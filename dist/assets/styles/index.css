@@ -1,0 +1,12 @@
+/* Base Font Sizes go here */
+/* Colors go here */
+body {
+  background-color: orange; }
+
+@media (min-width: 600px) {
+  body {
+    background-color: black; } }
+
+@media (min-width: 1200px) {
+  body {
+    background-color: red; } }
