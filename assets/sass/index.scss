@@ -1,0 +1,8 @@
+@import "mixins";
+@import "vars";
+
+// Default Layout
+@import './default/index.scss';
+
+// Import Module A
+@import './module_a/index.scss';
